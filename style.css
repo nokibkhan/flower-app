@@ -10,7 +10,7 @@ nav {
     display:flex;
     justify-content: space-between;
     align-items:center;
-    padding: 0px 100px;
+    padding: 0px 150px;
     background-color: #E55473;
 }
 nav .logo{
@@ -36,7 +36,7 @@ nav ul li a{
     display:flex;
     align-items:center;
     background-color:#fceef1;
-    padding:0px 100px;
+    padding:0px 180px;
     padding-top:25px;
     justify-content: space-between;
 }
@@ -115,4 +115,25 @@ nav ul li a{
     text-align: center;
     font-size: 36px;
     padding-top:50px;
+}
+
+.unknown-main{
+padding: 50px0px;
+}
+.unknown{
+    display:flex;
+    background:#f4f4f4;
+    text-align: center;
+    padding: 100px 0px;
+    width: 1280px;
+    justify-content:center;
+    margin: auto;
+    border-radius:25px
+    
+}
+.unknown img{
+    margin: auto;
+}
+.unknown div{
+    margin: 0px 50px;
 }
